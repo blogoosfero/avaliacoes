@@ -10,7 +10,7 @@ class Admin {
     public function Capa($userid, $usernome, $CodCurso) {
 	$this->put_menu($usernome, 1);
 	$this->put_cursos($userid, 0, $CodCurso);
-	return  0;
+	return 0;
     }
     
     public function Checa_Aulas($iduser, $nomeuser ,$cod_curso, $pos, $func){
