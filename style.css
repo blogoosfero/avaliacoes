@@ -1,0 +1,320 @@
+tr {
+    border: 0px;
+    border-color: red;
+}
+.h1{
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 24px;     
+}
+
+.h2{
+   
+   font-size: 12px;     
+}
+
+.tblogin{
+    font-family: Arial, Helvetica, sans-serif;
+    width:402px;
+    border: 0px;
+    background-color:sandybrown;
+}
+
+.tablemenu {
+    width:550px;
+    border:0;
+    background-color:#000080;
+    color: #FFFFFF;
+}
+.tdmenu{
+    border: 0;
+    background-color: #000080;
+    color: #FFFFFF;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:12px;
+}
+
+.botaoOdim{
+    display:inline;
+    background-color:#000080;
+    color:#FFFFFF;
+    text-decoration:none;
+    box-sizing:border-box;
+    font-family:Helvetica, Arial, sans-serif;
+    font-size:12px;
+    border:1px;
+    border-color:#FFFFFF;
+    cursor:pointer;
+    height:17px;
+    width:55px;		
+}
+
+.tabTitle {
+    width:550px;
+    height:14px;
+    border-color:#000080;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:12px;
+    text-align:left;
+}   
+
+.tabValores{
+    width:550px;
+    border:solid #000080 0px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:12px;
+    padding: 0px;    
+}
+
+.tabValores td{
+    border: 0px;
+}
+
+.celclick{
+    cursor:pointer;
+    border: 0px none;
+    background-color: transparent;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:12px;
+    padding: 0px 0px 0px 0px;
+    width:100%;
+    color:#000;
+}
+
+
+.botaobco {
+    display:inline;
+    background-color:#FFFFFF;
+    color:#0033CC;
+    text-decoration:none;
+    box-sizing:border-box;
+    font-family:Helvetica, Arial, sans-serif;
+    font-size:12px;
+    border:1px;
+    border-color:#FFFFFF;
+    cursor:pointer;
+    height:17px;
+}
+
+.botaocinza {
+    display:inline;
+    background-color:#CCCCCC;
+    color:#0033CC;
+    text-decoration:none;
+    box-sizing:border-box;
+    font-family:Helvetica, Arial, sans-serif;
+    font-size:12px;
+    border:1px;
+    border-color:#CCCCCC;
+    cursor:pointer;
+    height:17px;
+}	
+
+.tblinha {
+    width:550px;
+    border:0;
+    height:10px;
+    font-family:Helvetica, Arial, sans-serif;
+    font-size:12px;
+}
+.tbform {
+    width:450px;
+    background-color: #FFFFCC;   
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:12px;
+    border:solid #000080 1px;
+}
+
+.tbformQuest {
+    width:450px;
+    background-color: #FFFFCC;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:12px;
+    border:solid #000080 0px;
+}
+
+.tablemenu {
+    width:550px;
+    border:0;
+    background-color:#000080;
+    color: #FFFFFF;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:12px;
+}
+
+
+
+.tablemenuAdm {
+    width:550px;
+    border:0;
+    background-color:#336666;
+    color: #FFFFFF;
+}
+.subtablemenuAdm {
+    border:0;
+    background-color:gray;
+    color: #FFFFFF;
+}
+
+.tdmenuAdm{
+    border: 0;
+    background-color: #336666;
+    color: #FFFFFF;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:12px;
+}
+
+.botaoAdm {
+    display:inline;
+    background-color:#336666;
+    color:#FFFFFF;
+    text-decoration:none;
+    box-sizing:border-box;
+    font-family:Helvetica, Arial, sans-serif;
+    font-size:12px;
+    border:1px;
+    border-color:#FFFFFF;
+    cursor:pointer;
+    height:17px;
+}	
+
+.btnEdita{
+    cursor:pointer;
+    border: 0px none;
+    background-color: transparent;
+    padding: 0px 0px 0px 0px;
+    height:16px;
+    width:16px;
+    color:transparent;
+    background:url(images/b_edit.png);
+}
+
+
+
+.btnobs{
+    cursor:pointer;
+    border: 0px none;
+    background-color: transparent;
+    padding: 0px 0px 0px 0px;
+    height:19px;
+    width:20px;
+    color:transparent;
+    background:url(images/b_obs.png);
+}
+
+.btnRefaz{
+    cursor:pointer;
+    border: 0px none;
+    background-color: transparent;
+    padding: 0px 0px 0px 0px;
+    height:16px;
+    width:16px;
+    color:transparent;
+    background:url(images/b_refaz.png);
+}
+
+.btnfind{
+    cursor:pointer;
+    border: 0px none;
+    background-color: transparent;
+    padding: 0px 0px 0px 0px;
+    height:20px;
+    width:20px;
+    color:transparent;
+    background:url(images/b_find.png);
+}
+
+.btnClone{
+    cursor:pointer;
+    border: 0px none;
+    background-color: transparent;
+    padding: 0px 0px 0px 0px;
+    height:16px;
+    width:16px;
+    color:transparent;
+    background:url(images/b_clone.png);
+}
+
+.btnadm{
+    cursor:pointer;
+    border: 0px none;
+    background-color: transparent;
+    padding: 0px 0px 0px 0px;
+    height:16px;
+    width:17px;
+    color:transparent;
+    background:url(images/b_adm.png);
+}
+
+.btnaluno{
+    cursor:pointer;
+    border: 0px none;
+    background-color: transparent;
+    padding: 0px 0px 0px 0px;
+    height:16px;
+    width:17px;
+    color:transparent;
+    background:url(images/b_aluno.png);
+}
+
+
+.tablemenuAluno {
+    width:550px;
+    border:0;
+    background-color:#FC7D01;
+    color: #FFFFFF;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:12px;
+}
+
+.tdmenuAl{
+    border: 0;
+    background-color: #FC7D01;
+    color: #FFFFFF;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:12px;
+}
+
+.botaoAluno {
+    display:inline;
+    background-color:#FC7D01;
+    color:#FFFFFF;
+    text-decoration:none;
+    box-sizing:border-box;
+    font-family:Helvetica, Arial, sans-serif;
+    font-size:12px;
+    border:1px;
+    border-color:#FFFFFF;
+    cursor:pointer;
+    height:17px;
+}
+
+.Quest{
+    font:14px tahoma, arial;
+    background-color: #f9d7b0;
+    width: 100%;
+    color:blue;
+    text-align: justify;
+    padding: 0px 5px 10px 5px;;    
+    border-radius: 10px;
+    border: 1px solid #666;
+}
+
+.Resp{
+    font:   14px tahoma, arial;
+    background-color: #e6f9dc;
+    width: 100%;
+    color: #000;
+    text-align: justify;
+    padding: 0px 5px 10px 5px;;    
+    border-radius: 10px;
+    border: 1px solid #666;
+    
+}
+
+
+
+
+
+
+
+

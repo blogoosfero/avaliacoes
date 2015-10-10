@@ -1,0 +1,9 @@
+# configuration
+database.php
+
+Relatorios
+bkp
+
+# editors
+*.swp
+*~
